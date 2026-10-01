@@ -3,7 +3,7 @@
 ![CI-CD](https://github.com/YOUR-GITHUB-USERNAME/ics499-cicd-demo/actions/workflows/ci-cd.yml/badge.svg)
 
 **Live site (GitHub Pages):** https://RockyXiong47.github.io/ics499-cicd-demo/  
-**Live site (Render):** https://YOUR-RENDER-SITE.onrender.com
+**Live site (Render):** https://ics499-cicd-demo-hy1j.onrender.com
 
 A tiny project used in ICS 499 (Week 6) to show Git, GitHub, CI, and CD working together.
 
